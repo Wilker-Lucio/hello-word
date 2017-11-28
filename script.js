@@ -1,2 +1,2 @@
-var a = document.getElementById("test");
-a.innerHTML = "Share using GitHub :)";
+var a = document.getElementById("test").innerHTML = "Share using GitHub :)";
+//a.innerHTML = "Share using GitHub :)";
